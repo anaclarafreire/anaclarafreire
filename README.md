@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ana Clara Freire! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Economist at <a href="http://www.ufmg.br">Universidade Federal de Minas Gerais</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Analyst at <a href="https://www.dataviva.info">DataViva</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Economics Student at <a href="http://www.ufmg.br">Universidade Federal de Minas Gerais</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Data Analyst at <a href="https://www.dataviva.info">DataViva</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 Linkedin: https://www.linkedin.com/in/ana-clara-freire-rodrigues
